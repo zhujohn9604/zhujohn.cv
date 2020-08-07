@@ -56,7 +56,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MEng in Technology Management for Innovation
-      university: University of Tokyo
+      university: The University of Tokyo
       time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,9 +78,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: 2019 - Present
+      company: 'Research Institute of Economy, Trade and Industry: RIETI, Tokyo, Japan'
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,9 +93,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant
+      time: 2019 - Present
+      company: The University of Tokyo, Tokyo, Japan
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,9 +104,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Assistant & Teaching Assistant
+      time: 2018 - 2019
+      company: BNU-HKBU United International College, Zhuhai, China
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
