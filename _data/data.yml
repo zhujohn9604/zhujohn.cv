@@ -81,33 +81,26 @@ experiences:
     - role: Research Assistant
       time: 2019 - Present
       company: 'Research Institute of Economy, Trade and Industry: RIETI, Tokyo, Japan'
-      company: The University of Tokyo, Tokyo, Japan
       details: |
-        Patent text analysis using NLP techniques.
-          - Bullet point
-          - Bullet point
+        - Research: Patent text analysis using NLP techniques.
     - role: Research Assistant
       time: 2019 - Present
       company: The University of Tokyo, Tokyo, Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Research: Patent text analysis using NLP techniques.
+        - Others: Workstation maintenance.
     - role: Research Assistant & Teaching Assistant
       time: 2018 - 2019
       company: BNU-HKBU United International College, Zhuhai, China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Research: Performing wavelet transform to remove baseline in Near infrared spectroscopy(NIRs) data.
+          - Teaching Assistant for Calculus
+    - role: Data mining Engineer (internship)
+      time: 2017 - 2018
+      company: Paison Technology Group, Dongguan, China
+      details: |
+          - Project: Research on ML techniques for predicting customer churn.
+
 projects:
     title: Projects
     intro: >
