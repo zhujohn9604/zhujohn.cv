@@ -90,7 +90,7 @@ experiences:
       time: 2018 - 2019
       company: BNU-HKBU United International College, Zhuhai, China
       details: |
-          - Research: Performing wavelet transform to remove baseline in Near infrared spectroscopy(NIRs) data.
+          - Research: Performing wavelet transform to remove baseline in Near infrared spectroscopy (NIRs) data.
           - Teaching Assistant for Calculus
     - role: Data mining Engineer (internship)
       time: 2017 - 2018
@@ -124,6 +124,12 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     assignments:
+      - title: Velocity
+        link: '#'
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Velocity
+        link: '#'
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
       - title: Velocity
         link: '#'
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
