@@ -10,22 +10,29 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
+  {% if skills.intro %}
+  <div class="intro">
+      <p>{{ skills.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
 
-    {% for skill in skills.toolset %}
+  {% for skill in skills.assignments %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <span class="skill-title">
+        {% if skill.link %}
+        <a href="{{ project.link }}" target="_blank">{{ skill.title }}</a>
+        {% else %}
+        <h3 class="level-title">{{ skill.name }}</h3>
+        {% endif %}
+      </span>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+      {% if skill.tagline %}
+      - <span class="skill-tagline">{{ skill.tagline }}</span>
+      {% endif %}
 
     </div><!--//item-->
-    {% endfor %}
+  {% endfor %}
 
-  </div>
-
-</section><!--//skills-section-->
+</section><!--//section-->
 {% endif %}

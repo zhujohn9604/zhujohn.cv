@@ -123,11 +123,20 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    
-      - name: Programming/markup Languages
-        details: |
-        Proficient in Python, Java, C/C++, LaTeX
-        Also ability with Matlab, SQL, PHP, JavaScript, HTML, .NET
+    assignments:
+      - title: Velocity
+        link: 
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+
+#skills:
+#    title: Skills &amp; Proficiency
+#    
+#      - name: Programming/markup Languages
+#        details: |
+#        Proficient in Python, Java, C/C++, LaTeX
+#        Also ability with Matlab, SQL, PHP, JavaScript, HTML, .NET
 #
 #      - name: Javascript & jQuery
 #        level: 98%
