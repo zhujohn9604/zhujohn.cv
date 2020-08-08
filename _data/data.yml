@@ -98,16 +98,16 @@ experiences:
       details: |
           - Project: Research on ML techniques for predicting customer churn.
 
-#projects:
-#    title: Projects
+projects:
+    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -125,7 +125,7 @@ skills:
     title: Skills &amp; Proficiency
     assignments:
       - title: Velocity
-        link: 
+        link: 'www.baidu.com'
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 
