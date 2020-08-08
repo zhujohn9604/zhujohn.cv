@@ -124,15 +124,12 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     assignments:
-      - title: Velocity
+      - title: Programming/Markup Languages 
         link: '#'
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - title: Velocity
+        tagline: "Proficient in Python, R, Matlab, LaTeX; Also ability with C/C++, SQL, HTML"
+      - title: Technological Skills
         link: '#'
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - title: Velocity
-        link: '#'
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Proficient in Pytorch, NumPy/SciPy, Matplolib, Pandas; Also ability with Tensorflow, etc."
 
 
 
