@@ -125,23 +125,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Programming/markup Languages
+        details: |
+        Proficient in Python, Java, C/C++, LaTeX
+        Also ability with Matlab, SQL, PHP, JavaScript, HTML, .NET
+#
+#      - name: Javascript & jQuery
+#        level: 98%
 
 footer: >
     Designed with <i class="fas fa-github"></i> by <a href="https://github.com/zhujohn9604" target="_blank" rel="nofollow">Chen Zhu</a>
