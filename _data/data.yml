@@ -30,10 +30,10 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Proficient; TOEFL103
 
       - idiom: Japanese
-        level: Conversational
+        level: Conversational; JLPT-N1
 
     interests:
       - item: Swimming
@@ -109,7 +109,7 @@ experiences:
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
+publication:
     title: Publications
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
