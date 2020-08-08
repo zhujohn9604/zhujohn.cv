@@ -123,8 +123,7 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
+    
       - name: Programming/markup Languages
         details: |
         Proficient in Python, Java, C/C++, LaTeX
