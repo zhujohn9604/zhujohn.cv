@@ -79,13 +79,13 @@ experiences:
       time: 2019 - Present
       company: 'Research Institute of Economy, Trade and Industry: RIETI, Tokyo, Japan'
       details: |
-        - Research: Patent text analysis using NLP techniques.
+        - Research: Built word and document representations for patent data from both USPTO and CNIPR.
+          Prosposed kernel-based methods to analyze the catch-up between China and US. 
     - role: Research Assistant
       time: 2019 - Present
       company: The University of Tokyo, Tokyo, Japan
       details: |
-        - Research: Patent text analysis using NLP techniques.
-        - Others: Workstation maintenance.
+        - Research: Built patent classification model using popular NLP algorithms such as GPT and BERT (not using packages).
     - role: Research Assistant & Teaching Assistant
       time: 2018 - 2019
       company: BNU-HKBU United International College, Zhuhai, China
@@ -96,7 +96,11 @@ experiences:
       time: 2017 - 2018
       company: Paison Technology Group, Dongguan, China
       details: |
-          - Project: Research on ML techniques for predicting customer churn.
+          - Project: Constructed a classification model to predict the customer reinvestment behavior
+            by using a new LightGBM algorithm, which speeds up the traditional Gradient
+            Boosting Decision Tree (GBDT) algorithm. Improved the prediction accuracy by adding GBDT transformed features to the
+            original data (practical data collected from Paision Technology Group, internship
+            company).
 
 #projects:
 #    title: Projects
